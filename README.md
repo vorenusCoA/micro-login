@@ -44,4 +44,4 @@ You can find the project requirements and UML diagrams [here](documentation/)
 
 ## TODOs
 - Password validation needs to be improved (not complaint with requirements)
-- Token should be generated after a successful login instead of a user registration.
+- /login should require email and password and generate a token in response instead of asking for a token
